@@ -5,9 +5,8 @@ public class Abstract_demo {
 
         public void main(String args[])
         {
-            B obj = new B();
-            obj.j=2;
-            obj.display();
+            B abj = new B();
+            abj.j=2;
+            abj.display();
         }
     }
-

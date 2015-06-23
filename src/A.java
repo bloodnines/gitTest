@@ -2,7 +2,6 @@
  * Created by ASteezy1 on 6/15/15.
  */
     abstract class A {
-        int j;
+        int i;
         abstract void display();
     }
-
